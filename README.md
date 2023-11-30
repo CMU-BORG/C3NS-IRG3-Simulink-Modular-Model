@@ -8,3 +8,5 @@ Case Western Reserve University - Quinn Lab, Chiel Lab
 Carnegie Mellon University - Webster-Wood Lab
 
 University of Lincoln - Sutton Group
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10228820.svg)](http://dx.doi.org/10.5281/zenodo.10228820)
